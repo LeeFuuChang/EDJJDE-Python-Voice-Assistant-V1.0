@@ -514,6 +514,12 @@ def MainFunc():
                         time.sleep(5)
                         NoCallingTimeOut = 0
                         continue
+                    if "聊" in text and "天" in text:
+                        talkTW("正在啟動對話程序")
+                        def openChat():
+                            os.system(path+r"\MainChat.py")
+                        threading.Thread(target=openChat).start()
+                        break
                     if "添加形成" in text or "添加行程" in text:
                         AddScheduleSpeak()
                         time.sleep(5)
