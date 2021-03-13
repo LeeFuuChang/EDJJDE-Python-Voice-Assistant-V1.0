@@ -21,3 +21,7 @@ MainChat.py
 > 39行
 > 你的ReplikaAI密碼
 
+如果出現No module name "xxxxx"
+請嘗試使用 pip3 install xxxxx
+依然不行請嘗試上網搜尋
+還是不行的話在做提問
