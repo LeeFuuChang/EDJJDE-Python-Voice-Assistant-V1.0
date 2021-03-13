@@ -3,7 +3,8 @@ Python自製智能可對話之語音助手
 
 請記得更改
 
-如果你並未架設Arduino控制電器, 請刪除450~467行及603~614行, 並且可以刪除JarvisLight.js, \features\LightOn.py, \features\LightOff.py
+如果你並未架設Arduino控制電器, 請刪除450~467行及603~614行, 
+並且可以刪除JarvisLight.js, \features\LightOn.py, \features\LightOff.py
 
 Main.py
 > 55, 59行
