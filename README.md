@@ -8,13 +8,13 @@ Python自製智能可對話之語音助手
 
 Main.py
 > 55, 59行
-> OpenWeatherAPI //如果沒有帳號可以到https://openweathermap.org/api申請
+> OpenWeatherAPI //如果沒有帳號可以到官網申請https://openweathermap.org/api
 > 
 > 156, 160, 347, 348行
 > 你的Gmail帳號/ 密碼, 你朋友的Gmail
 
 MainChat.py
-//如果沒有帳號密碼可到https://my.replika.ai/申請
+//如果沒有帳號密碼可到官網申請https://my.replika.ai/
 > 27行
 > 你的ReplikaAI帳號
 > 
